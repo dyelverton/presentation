@@ -1,0 +1,34 @@
+
+Make sure you are in Northern VA region first
+
+log into cloud9
+
+clone repo into wednesday folder
+
+cd into presentation folder
+
+cd into finalform folder
+
+mention you will use Elastic Beanstalk to deploy to your Translation Web App
+
+************
+
+eb init -p PHP
+
+eb create 
+
+as create is in process - 
+
+show EB web console
+
+zoom in to show create in process
+
+then show Cloudformation Console to explain that EB is powered by Cloudformation
+
+return to EB dashboard and click on a EB application that was created ealier and already running
+
+Demo your app and mention the other services powering it
+
+really EB just deploys the html page
+
+
